@@ -261,16 +261,15 @@ section {
 
 
 #SessãoInicial { background-color: #042E39; height: auto; }
-#SessãoVoluntariar { background-color: #0C3B4D; }
-#SessãoCampanhas { background-color: #042E39; }
-#SessãoOngs { background-color: #0C3B4D; }
-#SessãoDoe { background-color: #042E39;
+#SessãoCampanhas { background-color: #0C3B4D; }
+#SessãoOngs { background-color: #042E39; }
+#SessãoDoe { background-color: #0C3B4D;
 display: flex;
 align-items: center;
 justify-content: space-between; 
 height: auto;}
-#SessãoNumeros { background-color: #0C3B4D; gap: 20px; }
-#SessãoFaq{ background-color: #042E39;
+#SessãoNumeros { background-color: #042E39; gap: 20px; }
+#SessãoFaq{ background-color: #0C3B4D;
   }
 
 
